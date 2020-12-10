@@ -1,1 +1,1 @@
-# php-unique-string
+# php-unique-string-generator
